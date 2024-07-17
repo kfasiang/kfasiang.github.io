@@ -54,7 +54,7 @@ footer:
 # Build settings
 remote_theme: eliottvincent/bay
 plugins:
-#   - jekyll-remote-theme
+   - jekyll-remote-theme
    - jekyll-feed
 
 # Exclude from processing.
