@@ -18,15 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+---
 title: Kristin Fasiang
-email: kfasiang@u.northwestern.edu
-description: Kristin Fasiang, CS + LS PhD Student
+email: >- 
+  kfasiang@u.northwestern.edu
+description: >-
+   Kristin Fasiang, CS + LS PhD Student
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kfasiang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  kfasiang
+github_username: kfasiang
 
 header:
+  title: Kristin Fasiang
   pages:
     - name: Home
       slug: /    # <-- index.md
@@ -37,11 +41,12 @@ footer:
   contact:
     - type: email
       name: Email
-      value: kfasiang@u.northwestern.edu
+      value: >-
+         kfasiang@u.northwestern.edu
   follow:
     - type: linkedin
       name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/kristin-fasiang
     - type: github
       name: GitHub
       link: http://github.com/kfasiang
@@ -49,7 +54,8 @@ footer:
 # Build settings
 remote_theme: eliottvincent/bay
 plugins:
-  - jekyll-feed
+#   - jekyll-remote-theme
+   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
