@@ -6,13 +6,12 @@ Some of my past work includes:<br>
     <li>Understanding common concepts students use when evaluating their belonging in computer science and when self-assessing during the programming process.</li> 
     <li>Creating a model AI assignment for middle and high school students to learn about bias and ethical concerns with large language models.</li>
 </ul>
-<br>
 My current work builds on the first of these threads to:<br>
 <ul>
     <li>Identify moments during the pair programming process that influence students' sense of belonging and self-assessments.</li> 
     <li>Design an AI tool to support peer-to-peer interactions and collaboration during the pair programming process.</li>
 </ul>
-<h2>Publications</h2><br>  
+<h2>Publications</h2>  
 Large Language Madlibs Model AI Assignment<br>  
 <i>Kristin Fasiang</i>, Duri Long<br>
 EAAI 2025
