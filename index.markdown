@@ -11,5 +11,9 @@ profile_picture:
 ---
 
 <p>
-  Hi! My name is Kristin and I am a Computer Science + Learning Sciences PhD student at Northwestern University.
+  Hi! My name is Kristin and I am a second year PhD student in Computer Science + Learning Sciences at Northwestern University. I am advised by [Professor Eleanor O'Rourke](http://www.eleanorourke.com/index.html) in the [Delta Lab](https://delta.northwestern.edu/).  
+
+In my research, I seek to understand how small moments during the programming process shape students' sense of belonging and self-efficacy in computer science. To this end, I am conducting design-based research to create an AI tool that supports human-centered collaboration during pair programming.  
+
+Before I started at Northwestern, I graduated with a B.S. in mathematics, B.S.Ed. in secondary education, and a minor in computer science from Loyola University Chicago in May 2023. I student taught in high school math and computer science courses in a Chicago Public High School, and also taught summer school math classes.
 </p>

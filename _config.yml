@@ -34,6 +34,7 @@ header:
   pages:
     - name: Home
       slug: /    # <-- index.md
+    - name: Research
     - name: CV  # <-- blog.md
 
 footer:
