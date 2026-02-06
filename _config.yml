@@ -53,7 +53,8 @@ footer:
       link: http://github.com/kfasiang
 
 # Build settings
-remote_theme: eliottvincent/bay
+# remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
 plugins:
    - jekyll-remote-theme
    - jekyll-feed
