@@ -36,7 +36,6 @@ Currently, I am working on:
 <h2>Publications</h2>
 <p>
 <h3>Talk, Tech, and Togetherness: Ethnographic Insights into Siding in Introductory Computer Science.</h3>
-<i>Kristin Fasiang</i>, Melissa Chen, Darren Gergle, Eleanor O'Rourke<br>
 <a href="assets/ISLS2026_UNDER_REVIEW.pdf">Under Review</a> 
 </p>
 
