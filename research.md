@@ -14,31 +14,24 @@ slug: /research
 In my research, I try to understand how students work at the edges of formal computer science learning environments to create spaces where they can belong and succeed. To do this, <u>I focus on students' (sometimes unsanctioned and unorthodox) interactions with their peers and appropriations of technologies.</u> 
 </p>
 <p>
-Some key words for my research are: self-efficacy, belonging, identity, learning pathways, accessibility, and human computer interaction.  
+Key words: self-efficacy, belonging, identity, learning pathways, accessibility, and human computer interaction.  
 </p>
 
 <p>
-Some of my past work includes:
+Some of my work includes:
 </p>
 
 * Investigating the interactions students have with peers and technology "to the side" of a main activity in their computer science classes and how they contribute to learning and belonging.
-* Understanding storylines students use when evaluating their belonging in computer science and when self-assessing during the programming process. 
-* Creating a model AI assignment for middle and high school students to learn about bias and ethical concerns with large language models.
-
-<p>
-Currently, I am working on:
-</p>
-
 * Identifying moments that influence students' sense of belonging and self-assessments while they collaboratively program with a peer.
-* Scoping a project to understand how students with disabilties use and create their own assistive technologies to engage with computer science learning.
+* Scoping a project to understand how why and how sighted and blind/low-vision students break norms around AI use and the impacts this has on their identities and learning trajectories.
 
 
-<h2>Publications</h2>
+<h2>Peer-Reviewed Publications</h2>
 
 <p>
-<h3>Hello World: Grounding the Design of Generative AI in Learning Communities and Contexts with Sociocultural Theories</h3>
-<i>Kristin Fasiang</i>*, Melissa Chen*, Eleanor O'Rourke<br>
-CHI 2026 Workshop: Understanding and Engaging Critical Resistance to AI in Education, Forthcoming
+<h3>Talk, Tech, and Togetherness: Ethnographic Insights into Siding in Introductory Undergraduate Computer Science</h3>
+<i>Kristin Fasiang</i>, Melissa Chen, Darren Gergle, Eleanor O'Rourke<br>
+Under Review
 </p>
 
 <p>
@@ -57,6 +50,15 @@ ICER 2025, <a href="http://doi.org/10.1145/3702652.3744229">ACM Digital Library<
 <h3>The Interrelated Nature of Belonging and Self-Assessments in Computing Students' Decisions to Persist</h3>
 <i>Kristin Fasiang</i>, Melissa Chen, Eleanor O'Rourke<br>
 ISLS 2025, <a href="https://doi.org/10.22318/icls2025.471307">ISLS Repository</a>
+</p>
+
+
+<h2>Workshops Etc.</h2>
+
+<p>
+<h3>Hello World: Grounding the Design of Generative AI in Learning Communities and Contexts with Sociocultural Theories</h3>
+<i>Kristin Fasiang</i>*, Melissa Chen*, Eleanor O'Rourke<br>
+CHI 2026 Workshop: <a href="https://criticalaied.netlify.app/">Understanding and Engaging Critical Resistance to AI in Education</a>, <a href="assets/CHI_2026_AI_Workshop_Fasiang_Chen_ORourke_final.pdf">Link</a>
 </p>
 
 <p>
