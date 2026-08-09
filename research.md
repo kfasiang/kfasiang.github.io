@@ -34,7 +34,7 @@ Some of my work includes:
 <p>
 <h3>Talk, Tech, and Togetherness: Ethnographic Insights into Siding in Introductory Undergraduate Computer Science</h3>
 <i>Kristin Fasiang</i>, Melissa Chen, Darren Gergle, Eleanor O'Rourke<br>
-ICER 2026, <a href="assets/ICER_2026_Siding.pdf">Paper Link</a>
+ICER 2026, <a href="assets/ICER_2026_Siding_real.pdf">Paper Link</a>
 </p>
 
 <p>
