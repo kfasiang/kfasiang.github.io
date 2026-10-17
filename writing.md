@@ -3,6 +3,12 @@ layout: work
 title: Writing
 slug: /writing
 items:
+  - title: '<a href="https://www.insidehighered.com/opinion/career-advice/teaching/2026/10/16/surprising-upside-classroom-distractions-opinion">The Surprising Upside to a Classroom Full of Distracted Students</a>'
+    image:
+      src: /assets/siding_op-ed_getty.webp
+      alt: undergrads in a lecture hall, two are leaning in to each other to look at a cellphone screen
+    description: Opinion piece urging instructors to be more tolerant of side conversations and technology use in the classroom. Draws on my ethnographic observations of side activities as part of my research. Inside Higher Education.
+
   - title: '<a href="https://hechingerreport.org/proof-points-ai-use-college-campuses/">Sex, Drugs and... AI? Students think everyone else is doing it more than they are</a>'
     image:
       src: /assets/Fasiang-ai-1.webp
